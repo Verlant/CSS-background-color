@@ -1,0 +1,19 @@
+div:first-of-type {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+div:nth-last-of-type(2) {
+  height: 75px;
+  width: 200px;
+  background-color: blue;
+}
+div:last-of-type {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: green;
+}
+div {
+  margin: 20px;
+}
